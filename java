@@ -18,3 +18,5 @@ dev 2 code writting
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+
+writting new data to the java code
